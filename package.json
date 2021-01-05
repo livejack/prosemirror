@@ -1,6 +1,6 @@
 {
   "name": "@livejack/prosemirror",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "crelt": "^1.0.5",
     "prosemirror-commands": "^1.1.4",
@@ -10,7 +10,7 @@
     "prosemirror-history": "^1.1.3",
     "prosemirror-inputrules": "^1.1.3",
     "prosemirror-keymap": "^1.1.4",
-    "prosemirror-menu": "^1.13.1",
+    "prosemirror-menu": "^1.1.4",
     "prosemirror-model": "^1.13.1",
     "prosemirror-schema-basic": "^1.1.2",
     "prosemirror-schema-list": "^1.1.4",
@@ -29,8 +29,8 @@
     "postinstall": "^0.7.0"
   },
   "prepare": {
-    "prosemirror-view/style/prosemirror.css": "link style/",
-    "prosemirror-menu/style/menu.css": "link style/"
+    "prosemirror-view/style/prosemirror.css": "copy style/",
+    "prosemirror-menu/style/menu.css": "copy style/"
   },
   "description": "",
   "main": "src/index.js",
