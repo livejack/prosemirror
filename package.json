@@ -30,7 +30,8 @@
   },
   "prepare": {
     "prosemirror-view/style/prosemirror.css": "copy style/",
-    "prosemirror-menu/style/menu.css": "copy style/"
+    "prosemirror-menu/style/menu.css": "copy style/",
+    "prosemirror-gapcursor/style/gapcursor.css": "copy style/"
   },
   "description": "",
   "main": "src/index.js",
