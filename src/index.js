@@ -12,7 +12,9 @@ export {
 	wrapIn,
 	setBlockType
 } from "prosemirror-commands";
-export { EditorState, Plugin, NodeSelection, TextSelection } from "prosemirror-state";
+export {
+	EditorState, Plugin, NodeSelection, TextSelection, Selection
+} from "prosemirror-state";
 export { dropCursor } from "prosemirror-dropcursor";
 export { gapCursor } from "prosemirror-gapcursor";
 export {
