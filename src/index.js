@@ -26,5 +26,8 @@ export {
 export { EditorView } from "prosemirror-view";
 export { Schema, DOMParser, DOMSerializer } from "prosemirror-model";
 export { addListNodes, wrapInList, splitListItem } from "prosemirror-schema-list";
+export {
+	tableNodes, tableEditing
+} from "prosemirror-tables";
 
 export { default as crel } from "crelt";
