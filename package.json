@@ -20,13 +20,13 @@
     "prosemirror-view": "^1.18.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@babel/eslint-parser": "^7.11.3",
-    "@babel/eslint-plugin": "^7.11.3",
-    "@babel/plugin-proposal-class-properties": "^7.10.4",
-    "@babel/plugin-syntax-class-properties": "^7.10.4",
-    "@babel/preset-env": "^7.11.0",
-    "@kapouer/eslint-config": "^1.0.0",
+    "@babel/core": "^7.14.3",
+    "@babel/eslint-parser": "^7.14.3",
+    "@babel/eslint-plugin": "^7.13.16",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-syntax-class-properties": "^7.12.13",
+    "@babel/preset-env": "^7.14.2",
+    "@kapouer/eslint-config": "^1.2.1",
     "postinstall": "^0.7.0"
   },
   "prepare": {
