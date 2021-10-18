@@ -18,8 +18,8 @@ export {
 export { dropCursor } from "prosemirror-dropcursor";
 export { gapCursor } from "prosemirror-gapcursor";
 export {
-	inputRules, wrappingInputRule,
-	smartQuotes, emDash, ellipsis,
+	InputRule, inputRules, wrappingInputRule,
+	emDash, ellipsis,
 	undoInputRule
 } from "prosemirror-inputrules";
 
