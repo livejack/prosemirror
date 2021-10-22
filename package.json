@@ -29,6 +29,23 @@
     "prosemirror-gapcursor/style/gapcursor.css": "copy style/",
     "prosemirror-tables/style/tables.css": "copy style/"
   },
+  "@webmodule/resolve": {
+    "prosemirror-commands": "src/commands.js",
+    "prosemirror-dropcursor": "src/dropcursor.js",
+    "prosemirror-example-setup": "src/index.js",
+    "prosemirror-gapcursor": "src/index.js",
+    "prosemirror-history": "src/history.js",
+    "prosemirror-inputrules": "src/index.js",
+    "prosemirror-keymap": "src/keymap.js",
+    "prosemirror-menu": "src/index.js",
+    "prosemirror-model": "src/index.js",
+    "prosemirror-schema-basic": "src/schema-basic.js",
+    "prosemirror-schema-list": "src/schema-list.js",
+    "prosemirror-state": "src/index.js",
+    "prosemirror-tables": "src/index.js",
+    "prosemirror-transform": "src/index.js",
+    "prosemirror-view": "src/index.js"
+  },
   "description": "",
   "main": "src/index.js",
   "scripts": {
