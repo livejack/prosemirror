@@ -11,7 +11,7 @@
     "prosemirror-inputrules": "^1.1.3",
     "prosemirror-keymap": "^1.1.4",
     "prosemirror-menu": "^1.1.4",
-    "prosemirror-model": "^1.14.3",
+    "prosemirror-model": "^1.15.0",
     "prosemirror-schema-basic": "^1.1.2",
     "prosemirror-schema-list": "^1.1.6",
     "prosemirror-state": "^1.3.4",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@kapouer/eslint-config": "^1.6.1",
-    "postinstall": "^0.7.3"
+    "postinstall": "^0.7.4"
   },
   "prepare": {
     "prosemirror-view/style/prosemirror.css": "copy style/",
