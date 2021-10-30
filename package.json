@@ -1,6 +1,6 @@
 {
   "name": "@livejack/prosemirror",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "dependencies": {
     "crelt": "^1.0.5",
     "prosemirror-commands": "^1.1.12",
